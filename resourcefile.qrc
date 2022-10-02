@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/chessimg">
+        <file>img/10.png</file>
+        <file>img/0.png</file>
+        <file>img/11.png</file>
+        <file>img/12.png</file>
+        <file>img/13.png</file>
+        <file>img/14.png</file>
+        <file>img/15.png</file>
+        <file>img/16.png</file>
+        <file>img/20.png</file>
+        <file>img/21.png</file>
+        <file>img/22.png</file>
+        <file>img/23.png</file>
+        <file>img/24.png</file>
+        <file>img/25.png</file>
+        <file>img/26.png</file>
+        <file>img/30.png</file>
+        <file>img/31.png</file>
+        <file>img/32.png</file>
+        <file>img/33.png</file>
+        <file>img/34.png</file>
+        <file>img/35.png</file>
+        <file>img/36.png</file>
+    </qresource>
+</RCC>
